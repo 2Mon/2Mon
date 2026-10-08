@@ -1,16 +1,16 @@
-## Hi there 👋
+<img width="2940" height="1148" alt="image" src="https://github.com/user-attachments/assets/11a91c77-29ac-4a64-851e-6d3a75a8a69a" />
+<p align="center"><sub>Outpost attendees at Open Sauce, summer 2026</sub></p>
 
-<!--
-**2Mon/2Mon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hey!! I'm Max 
 
-Here are some ideas to get you started:
+18-year-old high school senior running hardware events at [Hack Club](https://hackclub.com).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This summer I ran **[Outpost](https://outpost.hackclub.com)**: an in-person hackathon in San Francisco that ended with **120 teens** showing off what they built at [Open Sauce](https://opensauce.com).
+
+In my free time I build silly 3D printers like [tim](https://github.com/2mon/tim), my coreXZYZ printer that I brought to the Rocky Mountain RepRap Festival.
+
+I also play upright and electric bass, from classical to jazz to metal.
+
+---
+Questions? [maxg@hackclub.com](mailto:maxg@hackclub.com)
+
